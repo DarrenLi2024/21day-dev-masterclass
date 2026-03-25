@@ -43,6 +43,31 @@
 ## 🚀 快速开始
 
 ### 1. 克隆本项目
+
 ```bash
 git clone https://github.com/darrenli2024/21day-dev-masterclass.git
 cd 21day-dev-masterclass
+ 
+2. 运行环境配置脚本
+bash
+chmod +x scripts/setup-env.sh
+./scripts/setup-env.sh
+
+3. 按天学习 
+按照 docs/ 目录下的文档顺序学习，每天一个主题。
+
+📖 学习资源
+命令速查表
+
+常见问题解决
+
+推荐工具清单
+
+🤝 贡献指南
+欢迎提交 Issue 和 Pull Request 来完善这份学习指南！
+
+📄 开源协议
+本项目采用 MIT 协议，详见 LICENSE 文件。
+
+⭐ 支持一下
+如果这个项目对你有帮助，请给一个 Star ⭐️
